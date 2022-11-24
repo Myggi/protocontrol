@@ -36,3 +36,4 @@
 
 util/imageconverter/og
 util/imageconverter/venv
+include/wifi_credentials.h
